@@ -11,5 +11,9 @@
 
 [naranyala/comparative-study-of-audio-eq](https://github.com/naranyala/comparative-study-of-audio-eq)
 
+[naranyala/awesome-midi-controllers](https://github.com/naranyala/awesome-midi-controllers)
+
+[naranyala/awesome-foss-audio-software](https://github.com/naranyala/awesome-foss-audio-software)
+
 ---
 
